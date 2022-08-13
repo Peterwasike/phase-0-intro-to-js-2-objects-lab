@@ -1,6 +1,6 @@
 // Write your solution in this file!
 const employee ={
-    name:"Ryan",
+    name:"Peter",
     streetAddress:"Nairobi",
 };
 function updateEmployeeWithKeyAndValue(employee, key, value){
